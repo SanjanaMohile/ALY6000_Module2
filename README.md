@@ -1,1 +1,4 @@
 # ALY6000_Module2
+This repository is about a project based on R language. 
+Here, you can see a file attached that goes by the name Mohile_M2_Project2. This file is a report that consists of aim and objective of the project,a detailed explanation about what does the plotted graph convey, summary of the dataset, and an appendix wherein you can see the RScript along with its output. References are attached as well, which might help you get a closer idea about what the codes are about.
+The above assignment gave me a better understanding of graphs. Observing plot 6 gave me insights about the data, almost 80% of the observations lie on or near the regression line hence the linear regression model is said to be a good fit model. We can depend on this model for prediction purposes as well. Because we had to plot only a single variable linear regression was a good option, incase of multiple variables we would have used other regression models.
